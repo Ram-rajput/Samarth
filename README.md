@@ -60,10 +60,6 @@ pip install pandas duckdb streamlit langchain langchain-community langchain-goog
 
 <!-- end list -->
 
-```bash
-python build_database.py
-```
-
   * This will create the `samarth.db` file in your folder.
 
 **4. Run the App:**
