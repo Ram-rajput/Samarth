@@ -92,5 +92,7 @@ You can ask the system complex, cross-domain questions like:
 -----
 
 ## 🖥️ Demo Output
+<img width="1017" height="924" alt="Screenshot 2025-10-30 125646" src="https://github.com/user-attachments/assets/e0b5d322-87a1-495e-a9e2-761a056281cd" />
 
-*(Paste your screenshot or demo GIF here)*
+
+
